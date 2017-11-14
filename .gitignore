@@ -47,3 +47,4 @@ markup
 /Vagrantfile
 out
 /out/*
+*.iml
